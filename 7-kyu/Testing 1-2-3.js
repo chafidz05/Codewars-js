@@ -1,0 +1,1 @@
+const number = (array) => array.map((char, index) => `${index + 1}: ${char}`);
